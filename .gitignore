@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Prevention of Mistakes
+log/*_log.rtl
+img/
+mysql_BK/
+neko tags.txt
