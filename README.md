@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/develable/Rutap-Bot-2019?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2019) [![GitHub issues](https://img.shields.io/github/issues/develable/Rutap-Bot-2019?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2019/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/develable/Rutap-Bot-2019?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2019/pulls) 
+
 # About Us
 
 Develable
